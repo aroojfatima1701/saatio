@@ -1,0 +1,3 @@
+{ "compilerOptions": { "target": "ES2020", "module": "ESNext", "moduleResolution": "Bundler", "jsx": "react-jsx", "strict": true, "noEmit": true, "skipLibCheck": true, "lib": ["ES2022", "DOM", "DOM.Iterable"],
+  "typeRoots": ["/opt/npm-tools/node_modules/@types"], "paths": { "react": ["/opt/npm-tools/node_modules/@types/react"], "react/*": ["/opt/npm-tools/node_modules/@types/react/*"], "react-dom/*": ["/opt/npm-tools/node_modules/@types/react-dom/*"] } },
+  "include": ["src"] }
