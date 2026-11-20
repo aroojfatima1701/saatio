@@ -52,3 +52,8 @@ Laravel API with MySQL, multi-tenant by business:
 - Super-admin: `GET /api/admin/tenants`, `PATCH /api/admin/tenants/{id}`, `GET|PUT /api/admin/plans`
 
 The AI receptionist in this demo is rule-based so it works offline; in production it is an AI model connected to the same calendar.
+
+
+---
+
+**Arooj Fatima** · Full-stack developer who designs · Portfolio: [aroojfatima-portfolio.netlify.app](https://aroojfatima-portfolio.netlify.app) · aroojfatimaofficial250@gmail.com
